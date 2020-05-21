@@ -11,6 +11,9 @@
 - git show: Show a single commit
 - git diff: Show the difference between commits, the working 
 directory, and the staging area
+- git stash: Stash changes from working directory
+- git stash list: List stashes
+- git stash pop: Apply stashed changes to working directory
 - git checkout: Check out branch (update HEAD and apply changes 
 to working directory)
 - git branch -c: Create a branch
